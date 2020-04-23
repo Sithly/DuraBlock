@@ -1,5 +1,6 @@
 # DuraBlock
-A plugin for Minecraft Bukkit/Spigot built for Version ***1.15.2***
+A plugin for Minecraft Bukkit/Spigot built for version ***1.15.2***
+This mod does not use a permission system, it is only available to the server operator.
 
 # Commands
 ```
