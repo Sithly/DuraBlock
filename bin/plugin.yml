@@ -1,0 +1,15 @@
+main: sith.me.durablock.Main
+name: DuraBlock
+version: 1.3
+api-version: 1.13
+author: SithLee
+
+commands:
+  dbtoggle:
+    description: Turn on and off DuraBlock.
+  dbadd:
+    description: Add worlds that you want DuraBlock in.
+  dbremove:
+    description: Remove worlds that you don't want DuraBlock in.
+  dbchance:
+    description: Change the rate of which blocks actually break.
