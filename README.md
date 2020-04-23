@@ -1,5 +1,5 @@
 # DuraBlock
-# A plugin for Minecraft Bukkit/Spigot built for Version 1.15.2
+A plugin for Minecraft Bukkit/Spigot built for Version ***1.15.2
 
 # Commands
 ```
