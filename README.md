@@ -1,5 +1,5 @@
 # DuraBlock
-A plugin for Minecraft Bukkit/Spigot built for version ***1.15.2***
+A plugin for Minecraft Bukkit/Spigot built for version **1.15.2**
 This mod does not use a permission system, it is only available to the server operator.
 
 # Commands
@@ -9,3 +9,6 @@ This mod does not use a permission system, it is only available to the server op
 /dbtoggle - Enable/disable the mod on a global scale.
 /dbchance - The chance that the block will break (recommened 20-30)
 ```
+
+# Release
+[Release for Minecraft 1.15.2](https://www.sith.me/minecraft/release_durablock.jar)
